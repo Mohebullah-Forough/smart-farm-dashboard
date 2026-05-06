@@ -8,6 +8,7 @@ This project simulates an IoT-based agriculture monitoring system inspired by mo
 
 
 ## 📸 Preview
+<img width="1799" height="731" alt="smart farm dashboard" src="https://github.com/user-attachments/assets/85116632-2e9c-480e-bd02-630e881abe33" />
 
 
 
@@ -43,3 +44,4 @@ Example:
 ---
 
 ## 📁 Project Structure
+<img width="718" height="430" alt="smart-farm-project-structure" src="https://github.com/user-attachments/assets/a5bba802-5d1b-4829-853b-89af43b0098f" />

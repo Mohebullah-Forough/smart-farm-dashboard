@@ -8,7 +8,7 @@ This project simulates an IoT-based agriculture monitoring system inspired by mo
 
 
 ## 📸 Preview
-<img width="1799" height="731" alt="smart farm dashboard" src="https://github.com/user-attachments/assets/85116632-2e9c-480e-bd02-630e881abe33" />
+
 
 
 
